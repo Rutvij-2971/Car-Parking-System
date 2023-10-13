@@ -23,9 +23,15 @@ in this project:
 COMPONENTS USED:
 
 Arduino Uno
+
 20×4 LCD Display
+
 I2C LCD Module
+
 Male Header
+
 Female Header
+
 IR Sensor x 8
+
 Mini Servo Motor SG-90 
