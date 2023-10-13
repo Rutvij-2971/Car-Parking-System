@@ -9,6 +9,7 @@ An Arduino project that implements a model of car parking system using proximity
 
 
 ABSTRACT:
+
 This is our concept of an simulator for car parking ,where we use concepts we have learned from M.P.C.A  to construct a mini model of the above stated where we construct a 6 slots parking working on the basis on sensors which detect movement (motion detector sensor-IR sensors) to detect whether a car is allocated to the respective parking compartment for the secondary car to relatively park in whatever compartment is available relatively in a sequential order, also two sensors are used to detect whether the car is entering or vacating the parking compartment based on which sensor detects motion first
 
 
@@ -20,6 +21,7 @@ in this project:
 
 
 COMPONENTS USED:
+
 Arduino Uno
 20×4 LCD Display
 I2C LCD Module
